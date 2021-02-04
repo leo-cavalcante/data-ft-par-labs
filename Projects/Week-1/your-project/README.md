@@ -35,6 +35,6 @@ What does your repository look like? Explain your folder and file structure.
 ## Links
 Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project. 
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/leo-cavalcante/data-ft-par-labs/tree/main/Projects/Week-1/your-project)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/invite/b/w4QneQYo/5ace74351ce209a6104be71573fe1b96/blackjack)
