@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Blackjack
+*Leonardo Cavalcante Araujo*
 
-*[Your Cohort, Campus & Date]*
+*Data Analysis Full-Time FEB2021, Paris & February 8th 2021*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,13 +13,19 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
+Write a short description of your project. Write 1-2 sentences about what what you chose to build and why.
+The project consists in writing an online game of Blackjack.
 
 ## Rules
-Describe briefly the rules of the game you chose. 
+Describe briefly the rules of the game you chose.
+The main rules apply, with XXX specificities :
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
+
+1. Creation of the deck of cards
+2. Creation of functions to handles the tasks required in each round:
+  2.2
 
 ## Organization
 How did you organize your work? Did you use any tools like a trello or kanban board?
@@ -29,6 +35,6 @@ What does your repository look like? Explain your folder and file structure.
 ## Links
 Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project. 
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/leo-cavalcante/data-ft-par-labs/tree/main/Projects/Week-1/your-project)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/invite/b/w4QneQYo/5ace74351ce209a6104be71573fe1b96/blackjack)
