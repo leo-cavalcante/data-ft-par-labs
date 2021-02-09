@@ -67,7 +67,7 @@ After having build the first version following the steps above, it has been iter
 ## Links
 Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project.
 
-[Blackjack Game_v4](https://github.com/leo-cavalcante/data-ft-par-labs/blob/main/Projects/Week-1/your-project/Blackjack%20Game_v4.ipynb)  
+[Blackjack Game_vFINAL](https://github.com/leo-cavalcante/data-ft-par-labs/blob/main/Projects/Week-1/your-project/Blackjack%20Game_vFINAL.ipynb)  
 [Blackjack Game_vTKINTER](https://github.com/leo-cavalcante/data-ft-par-labs/blob/main/Projects/Week-1/your-project/Blackjack%20Game_vTKINTER.ipynb)  
 [GitHub Repository](https://github.com/leo-cavalcante/data-ft-par-labs/tree/main/Projects/Week-1/your-project)  
 [Google Slides](https://docs.google.com/presentation/d/1551GoYrD76L0y5D45VVs1hfH_hPP5mTUOZQyBmd21X4/edit?usp=sharing)  
