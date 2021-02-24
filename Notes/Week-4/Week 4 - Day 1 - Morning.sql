@@ -65,4 +65,44 @@ select wine.country, round(avg(price),2) as AVGprice, round(max(price),2) as Max
 inner join vintages on prices.vintage_id=vintages.id
 inner join wine on vintages.wine_id=wine.wine_id
 group by wine.country
-order by 2 desc
+order by 2 desc;
+
+# Number of wines per region (both sample and population)
+	## Population
+select regions.name_en, sum(number_of_wines) as Number_of_Wines from winery
+inner join regions on winery.region=regions.region_id
+group by regions.name_en
+order by 2 desc;
+
+	## Sample
+select regions.name_en, count(distinct wine_id) as Number_of_Wines from wine
+inner join regions on wine.region_id=regions.region_id
+group by regions.name_en
+order by 2 desc;
+
+# Select the share of winery per region (percentage of wineries in each region)
+select region, count(id) as Wines_Region, (select count(distinct id) from winery) as Total_Wines, round(count(id)/(select count(distinct id) from winery)*100,2) as Share
+from winery
+group by region
+order by 3 desc;
+
+
+#
+with 
+    t1 as (
+        select region, sum(number_of_wines) as population
+        from winery 
+        group by region
+        order by 2 desc),
+    t2 as (
+        SELECT rg.region_id, rg.name_en, count(distinct w.wine_id) as sample 
+        from wine w
+        inner join regions rg on w.region_id=rg.region_id
+        group by rg.name_en
+        order by 2 DESC)
+    select name_en, sample, population, 
+    sample/sum(sample) over()*100, 
+    population/sum(population) over()*100, 
+    (sample/sum(sample) over()*100)/(population/sum(population) over()*100)
+    from t1
+    inner join t2 on t1.region=t2.region_id;
