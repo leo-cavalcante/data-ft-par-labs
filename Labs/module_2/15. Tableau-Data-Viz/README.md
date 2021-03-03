@@ -2,6 +2,9 @@
 
 # Lab | Data Visualization with Tableau
 
+## Deliverable by Léo:
+**[NFL Tableau Lab by Léo](https://public.tableau.com/profile/leonardo.cavalcante.ara.jo#!/vizhome/Tableau-Data-Viz-NFL/11_Dashboard)**
+
 ## Introduction
 
 In this lab, we will practice creating visualizations using the many types of charts and graphs that come with Tableau.

@@ -2,6 +2,11 @@
 
 # Lab | BI Analysis with Tableau
 
+## Deliverable by Léo on Tableau Public:
+**[BI_Tableau-Telecom_Churn](https://public.tableau.com/profile/leonardo.cavalcante.ara.jo#!/vizhome/BI_Tableau-Telecom_Churn/Story)**
+
+
+
 ## Introduction
 
 In this lab, we will practice performing business intelligence analysis on a company's customer data. We will use a public dataset from Kaggle which can be obtained [here](https://www.kaggle.com/blastchar/telco-customer-churn). The dataset is likely to be the customer records of a telecom company where customers' personal identifiable information has been removed. It contains customer information such as their demographic information, what telecom services the customer uses, billing information, etc. In specific, the last column of the dataset is `Churn`, which is a business jargon indicating customers who have cancelled their service. In the Kaggle project, data scientists use this dataset to practice predicting customer behavior in order to retain them. In our lab today, we will use the dataset to practice Business Intelligence Analysis with Tableau.
