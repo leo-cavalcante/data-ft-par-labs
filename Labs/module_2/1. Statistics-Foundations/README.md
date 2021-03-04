@@ -16,6 +16,24 @@ One player rolls two dices. Describe the measurable space and the random variabl
 * B. The sum of the values obtained.
 * C. The maximum value obtained after rolling both dices.
 
+### Challende 1, answers:
+Ω (measurable space) = {(1, 1), (1, 2), (1, 3) ... (6, 4), (6, 5), (6, 6)}
+
+Meaning that my sample space is the combination of the result of the 1st toss and the 2nd toss. This applies to all 3 cases.
+
+* A. The values that the player obtains.
+
+Random variable : X({4,5}) = (4,5)
+
+* B. The sum of the values obtained.
+
+Random variable : X({4,5}) = 4+5 = 9
+
+* C. The maximum value obtained after rolling both dices.
+
+Random variable : X({4,5}) = max(4,5) = 5
+
+
 Describe the following events:
 * Case A: Both values are greater than 5.
 * Case B: The sum of values is even.
