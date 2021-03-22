@@ -41,3 +41,26 @@ Let's start! You will be assigned to an article and a day when you will have 5 m
 13. [Captchas](https://www.techradar.com/news/captcha-if-you-can-how-youve-been-training-ai-for-years-without-realising-it)
 14. [FaceApp](https://techcrunch.com/2017/02/08/faceapp-uses-neural-networks-for-photorealistic-selfie-tweaks/?guccounter=1)
 15. [The way we walk](https://medium.com/health-ai/googles-ai-can-see-through-your-eyes-what-doctors-can-t-c1031c0b3df4)
+
+
+
+# My Assignment : Spotify Recommendation Model
+
+1. If it is so important as the title says (is it really a big step?) or you think it is more important than the title let's suggests.
+
+**Answer:** The title "Spotify Recommandation" doesn't add any judgment and doesn't indicate clearly the problem at stake. 
+
+2. Which part of ML or AI is used and how is it related to ML or AI.
+
+
+
+3. What did they do to take the data.
+4. Which data did they use.
+5. How did they do to build the model. Which type of model is?
+6. Do you know any other project that applies the same techniques? Could you use something for another use case?
+7. Do you find any ethical implications? Collateral effects?
+8. Do you know any news related?
+
+So you need to look for more information. Maybe the paper the scientists published, other articles, some information about the techniques, ...
+
+Let's start! You will be assigned to an article and a day when you will have 5 minutes to share your research with your colleagues and then 5 minutes to discuss a little bit. Feel free to present your conclusions in the way you prefer.
