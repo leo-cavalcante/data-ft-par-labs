@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Web Scraping "Welcome to the Jungle" website by Leo
-*Leonardo Cavalcante Araújo*
+**Leonardo Cavalcante Araújo**
 
-*Data Analysis Full-Time FEB2021, Paris & February 22nd 2021*
+*Data Analytics Full-Time FEB2021, Paris & February 22nd 2021*
 
 ## Content
 - [Project Description](#project-description)
@@ -46,7 +46,7 @@ Lastly, it was time to analyze the results using Python, Pandas and data vizuali
 ## Organization
 - Repository "https://github.com/leo-cavalcante/data-ft-par-labs/blob/main/Projects/Week-3/" : you may find my 2 main Python codes stored as a Jupyter Notebook format, also the pickles stored for each database and the Jobs.csv.
 
-- PS.: individual project.
+*PS.: individual project.*
 
 ## Links
 Here you may find the relevant links for my repository, my main code  and presentation slides.
@@ -54,4 +54,4 @@ Here you may find the relevant links for my repository, my main code  and presen
 [Jobs_and_Companies_vFinal](https://github.com/leo-cavalcante/data-ft-par-labs/blob/main/Projects/Week-3/Jobs_and_Companies_vFinal.ipynb)  
 [Another_way_of_scraping_Companies](https://github.com/leo-cavalcante/data-ft-par-labs/blob/main/Projects/Week-3/Another_way_of_scraping_Companies.ipynb)  
 [GitHub Repository](https://github.com/leo-cavalcante/data-ft-par-labs/tree/main/Projects/Week-3)  
-[Google Slides](https://docs.google.com/presentation/d/1H91rL3dhN7dNDxZEJCj6XTysaTC8qrk_XPpgmEk8PXw/edit?usp=sharing)
+[Final Presentation - Google Slides](https://docs.google.com/presentation/d/1H91rL3dhN7dNDxZEJCj6XTysaTC8qrk_XPpgmEk8PXw/edit?usp=sharing)
